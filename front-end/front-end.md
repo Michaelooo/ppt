@@ -19,6 +19,12 @@ section {
 h1 {
   color: rgba(255,134,72,.96);
 }
+
+img[src*="#width-full"] {
+ width: 80%;
+ height: 80%;
+}
+
 </style>
 
 
@@ -39,9 +45,10 @@ h1 {
 
 ---
 
-![](https://fs.fangdd.com/static/Fvf1lYpYj7IHjdv559Px86Vt6s7h.jpg)
+![](https://fs.fangdd.com/static/Fq7hiICkpAQc9FjY4XAi1xr3pMIY.jpg)
 
 数据来源：https://hellogithub.com/report/tiobe/?url=/
+https://github.com/search?q=stars%3A%3E10000
 
 ---
 
@@ -55,23 +62,24 @@ h1 {
 
 ##### 过去的前端工程师
 
-- 当年的网络三剑客
-- jsp  服务端渲染的初代目版本
+- 当年的网络三剑客,(flash, dreamweaver, fireworks)
+- jsp, 动态页面，服务端渲染的初代目版本
 - php 守护世界上最好的语言
 
 ---
 
 # 现在的前端工程师
 
-- hyberapp
+- hyberapp，app 原生与webview的混合
 - nodejs 带来更多可能
-- 页面重构
+- web 编程性能的优化
+- 造轮子
 
 ---
 
 # 未来的前端工程师
 
-- 语言会趋同
+- 语言会趋同（会越来贴近后台语言的规范）
 - 做的事情更多，物联网，万物互联
 - 多端应用会有一个统一的规范，flutter 
 
@@ -86,9 +94,9 @@ h1 {
 
 ---
 # 前端的技术体系
-##### 前端的技术体系
 
-![](https://imgur.com/wJMMfCR)
+- javascript developer need to learn now: https://zendev.com/2019/06/04/top-skills-to-learn-junior-javascript-developer.html
+- front-end roadmap: https://roadmap.sh/frontend
 
 ---
 
@@ -101,14 +109,19 @@ h1 {
 ---
 
 # 房多多前端体系是怎么样子的？
-	
-祭出松波的公司体系图
 
 ---
 
-# 守护世界上最好的语言
+![bg original](https://fs.fangdd.com/static/Fsl6ChikzKglRTgH3Ujftch5KmED.jpg)
 
-![](https://fs.fangdd.com/static/Ft0XAVPxFmaLHf1C5u4IbcvsEWUw.jpg)
+---
+
+![bg original 80%](https://fs.fangdd.com/static/FpgVDbc4sPo3IF16qEJP3nDJSDmz.jpg)
+
+---
+
+提问时间？
+==
 
 ---
 Thanks
